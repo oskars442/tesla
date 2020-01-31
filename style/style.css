@@ -1,11 +1,11 @@
 #first {
-    background-image: url("/images/bg.jpg");
+    background-image: url("http:/images/bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .cyber {
-    max-width: 25em;
+
     margin-left: 35%;
     padding-top: 3em;
 }
@@ -44,7 +44,6 @@ h5 {
 }
 
 .car {
-    margin-top: 3em;
     width: 75em;
 }
 
